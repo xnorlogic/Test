@@ -1,6 +1,7 @@
 #include "PIC16F73.h"
 
 PIC16F73 Emulator;
+PIC16F73 Emulator1;
 
 int main()
 {
