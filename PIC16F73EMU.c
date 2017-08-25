@@ -2,6 +2,8 @@
 
 PIC16F73 Emulator;
 PIC16F73 Emulator1;
+PIC16F73 Emulator2;
+
 
 int main()
 {
